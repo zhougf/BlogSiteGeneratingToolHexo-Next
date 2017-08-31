@@ -1,14 +1,7 @@
-<html lang="zh-Hans,en,default">
-<title>关于我 | 甜心柚</title>
-<head>
-  <meta charset=utf-8/>
-</head>
-</html>
 [回到我的主页](https://tianxinyou.github.io/)
 
 您的支持是作者写作最大的动力！
 ------------------------------
-<hr>
 
 	如果您喜欢这个博客，读后觉得收获很大...
 
@@ -18,16 +11,12 @@
 
 ![](/txy_about/txy_thankyou.jpg "Thank you very much!")
 
-<hr>
-
 赞助方式一：`支付宝二维码付款`
 ------------------------------
 
 	您可以选择手机支付宝扫一扫
 
 ![](/txy_about/txy_zhifubao.png "支付宝二维码付款给甜心柚")
-
-<hr>
 
 赞助方式二：`微信扫一扫`
 ------------------------------
@@ -37,4 +26,3 @@
 ![](/txy_about/txy_weixin.png "微信二维码付款给甜心柚")
 
 [回到我的主页](https://tianxinyou.github.io/)
-<hr>
