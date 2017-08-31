@@ -1,13 +1,3 @@
----
-layout: post
-title: 关于作者
-date: 2017-08-30 15:35:00 +0800
-updated: 2017-08-30 15:35:00 +0800
-comments: false
-tags: 个人博客
-categories: working
----
-
 # 您的支持是作者写作最大的动力！
 
 	如果您喜欢这个博客，读后觉得收获很大...
@@ -16,18 +6,16 @@ categories: working
 
 	您可以对本博客“小额赞助”一下，让我有动力继续写出更高质量的文章。
 
-	点击上面小额赞助即可呦！
-
-![Thank you very much!](/txy_thankyou.jpg "")
+![](/txy_about/txy_thankyou.jpg "Thank you very much!")
 
 ## 赞助方式一：`支付宝二维码付款`
 
 	您可以选择手机支付宝扫一扫
 
-![支付宝二维码付款给甜心柚](/txy_zhifubao.png "")
+![](/txy_about/txy_zhifubao.png "支付宝二维码付款给甜心柚")
 
 ## 赞助方式二：`微信扫一扫`
 
 	您可以选择手机微信扫一扫
 
-![微信二维码付款给甜心柚](/txy_weixin.png "")
+![](/txy_about/txy_weixin.png "微信二维码付款给甜心柚")
