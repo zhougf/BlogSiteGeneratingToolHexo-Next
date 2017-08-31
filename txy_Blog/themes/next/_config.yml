@@ -62,8 +62,8 @@ menu: #菜单
   archives: /archives/ || archive #归档
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat #公益404
   about: /txy_about/ || user #关于
+  #commonweal: /404/ || heartbeat #公益404
 
 # Enable/Disable menu icons.
 menu_icons:
